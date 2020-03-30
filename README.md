@@ -2,7 +2,7 @@
 This is a simple website project for 
 showing how to use Git and GitHub together
 <h2>Introduction</h2>
-
+This is example to show various parts of GItRepository
 <h2>Purpose</h2>
 
 <h2>Deployment</h2>
