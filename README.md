@@ -18,6 +18,8 @@ any server.
 
 <h2>How to contribute</h2>
 
+Please fork this repository and then issue pull request for review
+
 ###Copyright
 
 2014 Git.Training
