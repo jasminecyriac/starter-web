@@ -18,7 +18,7 @@ any server.
 
 <h2>How to contribute</h2>
 
-Please fork this repository and then issue pull request for review
+Please fork this repository and then issue pull request for review.
 
 ###Copyright
 
